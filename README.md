@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Java-v8-orange?logo=java" />
     <img src="https://img.shields.io/badge/license-MIT-green" />
 </div>
+
 ---
 
 <p align="center">Hide your texts inside images using this steganography application.</p>
