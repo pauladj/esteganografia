@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img width=500px height=150px src="img/logo.jpg" alt="Project logo"></a>
 </p>
-<h3 align="center">Hide your texts inside images</h3>
+<h3 align="center">Hide messages inside images</h3>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Java-v8-orange?logo=java" />
@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center">Hide your texts inside images using this steganography application.</p>
+<p align="center">Hide messages inside images using this steganography application.</p>
 
 
 
