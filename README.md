@@ -8,13 +8,14 @@
     <img src="https://img.shields.io/badge/Java-v8-orange?logo=java" />
     <img src="https://img.shields.io/badge/license-MIT-green" />
 </div>
-
-
 ---
 
 <p align="center">Hide your texts inside images using this steganography application.</p>
 
+
+
 ## 🧐 Descripción
+
 El programa realizado esconderá en una imagen .png o .jpg una cadena de texto. Se ha utilizado la técnica "*least significant bit*”.
 
 En el código fuente de la aplicación (carpeta `src`) se puede ver una explicación detallada de lo que se ha ido haciendo.
