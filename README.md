@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="img/logo.jpg" alt="Project logo"></a>
+ <img width=500px height=150px src="img/logo.jpg" alt="Project logo"></a>
 </p>
 <h3 align="center">Hide your texts inside images</h3>
 
